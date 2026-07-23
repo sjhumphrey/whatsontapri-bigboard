@@ -1,0 +1,8 @@
+# keep this deploy folder clean — ship index.html, README, CNAME, and join/
+*
+!index.html
+!README.md
+!.gitignore
+!CNAME
+!join/
+!join/index.html
